@@ -9,12 +9,16 @@ Sebuah aplikasi / module  ERP terkait izin sakit untuk karyawan yang ingin memer
 </p>
 
 Memiliki 4 fitur dengan output pdf yang digunakan sebagai surat izin untuk melakukan pemeriksaan lanjutan pada klinik perusahaan. Adapun penjelasan dari setiap fiturnya sebagai berikut:
+## Fitur Aplikasi Klinik
 
-1. Pendaftaran pasien
-   Fitur yang diakses oleh user yang berisikan data diri dan poli yang akan dituju oleh user
-2. Konfirmasi pendaftaran
-   Fitur yang hanya dapat diakses oleh admin dari perusahaan untuk menciptakan keamanan lebih lanjut dan menghindari adanya kecurangan
-3. Status pendaftaran
-   Fitur yang dapat diakses oleh user untuk melihat status pendaftaran pada poli pemeriksaan dan adanya output berupa pdf yang dapat diakses oleh user sebagai surat izin
-4. Report
-   Fitur yang hanya diakses oleh admin kesehatan dari perusahaan terkait catatan medis dari setiap pasien/user yang telah melakukan pemeriksaan
+1. **Pendaftaran Pasien**
+   - Fitur yang diakses oleh pengguna untuk mengisi data diri dan memilih poli pemeriksaan yang akan dituju.
+
+2. **Konfirmasi Pendaftaran**
+   - Fitur yang hanya dapat diakses oleh administrator perusahaan untuk menjamin keamanan dan mencegah adanya kecurangan.
+
+3. **Status Pendaftaran**
+   - Pengguna dapat melihat status pendaftaran pada poli pemeriksaan, dan mendownload surat izin dalam format PDF.
+
+4. **Laporan (Report)**
+   - Hanya diakses oleh administrator kesehatan, menyediakan catatan medis dari setiap pasien yang telah melakukan pemeriksaan.
