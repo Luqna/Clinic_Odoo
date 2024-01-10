@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="300">
  <strong>CLINIC</strong>
 </p>
 
