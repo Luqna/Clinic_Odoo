@@ -1,4 +1,4 @@
-# CLINIC
+# **CLINIC**
 
 Sebuah aplikasi / module  ERP terkait izin sakit untuk karyawan yang ingin memeriksakan diri di klinik perusahaan pada Odoo versi 14 untuk dikembangkan lebih lanjut pada perusahaan
 
